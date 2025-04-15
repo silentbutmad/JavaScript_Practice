@@ -23,7 +23,7 @@ console.log(result)        //0.30000000000000004
 // 0.2 is also an infinite binary fraction.
 // When the computer adds them, it uses a limited number of bits (usually 64 bits), so it rounds the result to the nearest representable value.
 
-// ternary
+// ternary (  ?  :  ; )
 var age=19
 result = age>=18? "vote" : "not vote"
 console.log(result)
